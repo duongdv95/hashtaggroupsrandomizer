@@ -1,0 +1,22 @@
+{
+  "name": "hashtaggroupsrandomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongdv95/hashtaggroupsrandomizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongdv95/hashtaggroupsrandomizer/issues"
+  },
+  "homepage": "https://github.com/duongdv95/hashtaggroupsrandomizer#readme",
+  "dependencies": {
+    "lodash.flattendeep": "^4.4.0"
+  }
+}
